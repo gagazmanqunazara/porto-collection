@@ -27,9 +27,8 @@ IFAP is a simple dashboard consisting of four pages. Visualize data from media m
 [Repository](https://github.com/gagazmanqunazara/bytelight-landing-page) | [Demo](https://bytelight-landing-page.vercel.app/) | [Figma](https://www.figma.com/community/file/1199941045612359384)
 ![enter image description here](https://i.imgur.com/HNRndUJ.png)
 Feb 2023
-Stack: Typescript, Next.JS & TailwindCSS
+Stack: Typescript, Next.JS 13 & TailwindCSS
 
-Landing page UI slicing from a free Figma template to Next.JS & TailwindCSS. A personal project that developed to do some experiments.
+Landing page UI slicing from a free Figma template to Next.JS & TailwindCSS. A personal project that developed to do some UI experiments.
 
 -   Create a structured and scalable system design.
--   Next.JS 13 & rendering patterns
