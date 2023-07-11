@@ -34,7 +34,6 @@ Landing page UI slicing from a free Figma template to Next.JS & TailwindCSS. A p
 -   Create a structured and scalable system design.
 
 ### Kimonev
-[Repository](https://github.com/gagazmanqunazara/bytelight-landing-page) | [Demo](https://bytelight-landing-page.vercel.app/) | [Figma](https://www.figma.com/community/file/1199941045612359384)
 ![enter image description here](https://i.imgur.com/KPS1NVp.png)
 Nov 2022 - Present
 Stack: Typescript, Next JS, tRPC, & ANTD
@@ -42,7 +41,6 @@ Stack: Typescript, Next JS, tRPC, & ANTD
 Kimonev is a dashboard that used by Pamjaya to track the water production, distribution, selling and more.
 
 ### Trinix
-[Repository](https://github.com/gagazmanqunazara/bytelight-landing-page) | [Demo](https://bytelight-landing-page.vercel.app/) | [Figma](https://www.figma.com/community/file/1199941045612359384)
 ![enter image description here](https://i.imgur.com/Y3mn71p.png)
 Feb 2022
 Stack: Typescript, Next JS, & Tailwind
